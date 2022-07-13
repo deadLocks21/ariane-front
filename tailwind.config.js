@@ -8,11 +8,7 @@ module.exports = {
     "./nuxt.config.{js,ts}",
   ],
   theme: {
-    extend: {
-      backgroundImage: {
-        header: "url('/assets/img/header.png')",
-      },
-    },
+    extend: {},
   },
   plugins: [require("daisyui")],
   daisyui: {
