@@ -3,7 +3,7 @@
     <div
       class="
         h-2/6
-        bg-[url(~/assets/img/header.jpg)] bg-cover bg-center
+        bg-[url('/assets/img/header.jpg')] bg-cover bg-center
         rounded-br-lg rounded-bl-lg
       "
     ></div>
